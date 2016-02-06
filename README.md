@@ -3,6 +3,8 @@ Common objects - Public jar repository
 
 Usage:
 
+
+```
 <repositories>
     <repository>
         <id>common-objects-mvn-repo</id>
@@ -13,3 +15,4 @@ Usage:
         </snapshots>
     </repository>
 </repositories>
+```
